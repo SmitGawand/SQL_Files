@@ -180,7 +180,3 @@ ORDER BY total_sold_items DESC;
 These queries measure your highest-value customers and top-performing countries.
 
 ***
-
-## How to Customize
-
-Adapt and extend queries for deeper analysis, such as time-series sales trends, top products by month, or customer lifecycle value. You can also automate reporting or plug these metrics into BI dashboards for regular business monitoring.
