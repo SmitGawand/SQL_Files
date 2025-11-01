@@ -199,12 +199,3 @@ Creates a detailed summary for each product—how often it sells, by how many cu
 
 ***
 
-## Customization Tips
-
-Extend these ideas to:
-- Weekly or quarterly analysis  
-- Regional (city/country) breakdowns  
-- Pre-built dashboard visualizations  
-- Customer retention forecasts or cohort studies
-
-***
